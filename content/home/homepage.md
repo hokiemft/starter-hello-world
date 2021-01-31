@@ -34,17 +34,17 @@ advanced:
 
 ## My Mission
 
-To promote connection, reflection, and perspective in clients and trainees. 
+To help people not miss the forest for the trees. 
 
 ## Specialties
 
-Systems Thinking, Counselor Education, Supervision
+Conversation, Systems Thinking, Pedagogy, Reflective Supervision
 
 ## Experience
 
 ### University of Mobile
 #### Assistant Professor of Marriage and Family Counseling • August 2016 - Current • Mobile, AL 
-I teach and train students in the art of therapy and self-reflection. 
+I teach and train graduate students in the art of therapy and self-reflection. 
 
 ### Veterans Recovery Resources
 #### Therapist • November 2018 - Current • Mobile, AL
