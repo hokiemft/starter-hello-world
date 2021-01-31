@@ -21,7 +21,7 @@ design:
     # color: navy
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
-    image: hello.jpg  # Name of image in `static/media/`.
+    image: 20190712_113108.jpg  # Name of image in `static/media/`.
     image_darken: 0.4
     image_size: cover
     image_position: right
@@ -34,36 +34,38 @@ advanced:
 
 ## My Mission
 
-Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
+To promote connection, reflection, and perspective in clients and trainees. 
 
 ## Specialties
 
-Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+Systems Thinking, Counselor Education, Supervision
 
 ## Experience
 
-### Tidbit Games
-#### Chief Data Officer • Jan 2015 - Current • Shanghai
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### University of Mobile
+#### Assistant Professor of Marriage and Family Counseling • August 2016 - Current • Mobile, AL 
+I teach and train students in the art of therapy and self-reflection. 
 
-
-### AI Soup
-#### Research Manager • Jan 2010 - Jan 2015 • Beijing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### Veterans Recovery Resources
+#### Therapist • November 2018 - Current • Mobile, AL
+I work with an outstanding team of professionals to serve veterans on the Gulf Coast. My small role is to do individual, couple, and family therapy with both military-connected and civilian individuals. 
 
 ## Education
 
-### Tsinghua University
-#### PhD AI • Jan 2005 - Jan 2010 • Beijing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### Virginia Tech
+#### PhD Human Development • May 2014 • Blacksburg, VA
 
+### Reformed Theological Seminary
+#### MA in Marriage & Family Therapy & Counseling • December 2006 • Jackson, MS
+#### MA in Theological Studies • May 2007 • Jackson, MS
+
+### University of Tennessee at Chattanooga
+#### BS in Psychology • December 1998 • Chattanooga, TN
 
 ## Get in Touch
 
-[{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)
-[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
-{{< icon name="weixin" pack="fab" >}}微信用户名  
+[{{< icon name="envelope" pack="fas" >}}Email](mailto:glenn@wghollingsworth.com)
+---
+[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)   
+---
 
-## Credits
-
-[Demo background image](https://unsplash.com/photos/mNSOLgnDGzA)
