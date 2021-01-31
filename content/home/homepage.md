@@ -7,7 +7,7 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 
-title: "WG Hollingsworth, PhD, LMFT, LPC"
+title: "Glenn Hollingsworth, PhD, LMFT, LPC"
 subtitle: "Therapist, Supervisor, & Aspiring Pizzaiolo"
 
 design:
@@ -65,7 +65,6 @@ I work with an outstanding team of professionals to serve veterans on the Gulf C
 ## Get in Touch
 
 [{{< icon name="envelope" pack="fas" >}}Email](mailto:glenn@wghollingsworth.com)
----
-[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)   
----
+
+<!-- [{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy) -->
 
