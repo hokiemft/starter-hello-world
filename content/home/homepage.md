@@ -50,6 +50,22 @@ I teach and train graduate students in the art of therapy and self-reflection.
 #### Therapist • November 2018 - Current • Mobile, AL
 I work with an outstanding team of professionals to serve veterans on the Gulf Coast. My small role is to do individual, couple, and family therapy with both military-connected and civilian individuals. 
 
+## Courses Taught
+
+- MFC 540 Foundations of Counseling MFC 541 Personality Theories
+- MFC 544 Indiviual & Family Development MFC 545 Group Counseling
+- MFC 550 Sociology of the Family
+- MFC 551 Family Systems Theories & Therapies MFC 552 Family Development
+- MFC 554 Marriage & Family Counseling I
+- MFC 555 Marriage & Family Counseling II
+- MFC 556 Couples Counseling
+- MFC 565 Research Techniques & Data Analysis in Marriage & Family Counsel- ing
+- MFC 571 Ethical & Legal Issues
+- MFC 578 Marriage and Family Counseling Practicum I
+- MFC 579 Marriage and Family Counseling Practicum II 
+- MFC 582 Internship
+- PSY 301 Human Growth & Development (Undegraduate)
+
 ## Education
 
 ### Virginia Tech
