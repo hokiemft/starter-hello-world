@@ -38,7 +38,7 @@ To help people not miss the forest for the trees
 
 ## Specialties
 
-Relationships, Trauma
+Systems Thinking, Pedagogy, Reflective Supervision
 
 ## Experience
 
