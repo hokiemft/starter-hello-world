@@ -34,11 +34,11 @@ advanced:
 
 ## My Mission
 
-To help people not miss the forest for the trees. 
+To help people not miss the forest for the trees
 
 ## Specialties
 
-Conversation, Systems Thinking, Pedagogy, Reflective Supervision
+Relationships, Trauma
 
 ## Experience
 
@@ -64,6 +64,7 @@ I work with an outstanding team of professionals to serve veterans on the Gulf C
 - MFC 556 Couples Counseling
 - MFC 565 Research Techniques & Data Analysis in Marriage & Family Counseling
 - MFC 571 Ethical & Legal Issues
+- MFC 575 Crisis and Trauma
 - MFC 578 Marriage and Family Counseling Practicum I
 - MFC 579 Marriage and Family Counseling Practicum II 
 - MFC 582 Internship
