@@ -42,11 +42,11 @@ Systems Thinking, Pedagogy, Reflective Supervision
 
 ## Experience
 
-### University of Mobile
+### [University of Mobile](https://umobile.edu/academics/faculty-directory/)
 #### Assistant Professor of Marriage and Family Counseling • August 2016 - Current • Mobile, AL 
 I teach and train graduate students in the art and science of therapy and self-reflection. 
 
-### Veterans Recovery Resources
+### [Veterans Recovery Resources](https://veteransrecoveryresources.org/team/our-clinical-team/)
 #### Therapist • November 2018 - Current • Mobile, AL
 I work with an outstanding team of professionals to serve veterans on the Gulf Coast. My small role is to do individual, couple, and family therapy with both military-connected and civilian individuals. 
 
