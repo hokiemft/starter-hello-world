@@ -36,7 +36,7 @@ advanced:
 
 To help people not miss the forest for the trees
 
-## Specialties
+## Interests
 
 Systems Thinking, Pedagogy, Reflective Supervision
 
@@ -44,7 +44,7 @@ Systems Thinking, Pedagogy, Reflective Supervision
 
 ### University of Mobile
 #### Assistant Professor of Marriage and Family Counseling • August 2016 - Current • Mobile, AL 
-I teach and train graduate students in the art of therapy and self-reflection. 
+I teach and train graduate students in the art and science of therapy and self-reflection. 
 
 ### Veterans Recovery Resources
 #### Therapist • November 2018 - Current • Mobile, AL
@@ -68,12 +68,13 @@ I work with an outstanding team of professionals to serve veterans on the Gulf C
 - MFC 578 Marriage and Family Counseling Practicum I
 - MFC 579 Marriage and Family Counseling Practicum II 
 - MFC 582 Internship
-- PSY 301 Human Growth & Development (Undegraduate)
+- PSY 301 Human Growth & Development (Undergraduate)
+- PSY 323 Introduction to Family Therapy (Undergraduate)
 
 ## Education
 
 ### Virginia Tech
-#### PhD Human Development • May 2014 • Blacksburg, VA
+#### PhD in Human Development • May 2014 • Blacksburg, VA
 
 ### Reformed Theological Seminary
 #### MA in Marriage & Family Therapy & Counseling • December 2006 • Jackson, MS
