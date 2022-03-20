@@ -34,11 +34,11 @@ advanced:
 
 ## My Mission
 
-To help people not miss the forest for the trees
+To help others not miss the forest for the trees
 
 ## Interests
 
-Systems Thinking, Pedagogy, Reflective Supervision
+Systems Thinking, Pedagogy, Metacognition, Politics of MFT, Self of the Therapist
 
 ## Experience
 
@@ -54,7 +54,7 @@ I work with an outstanding team of professionals to serve veterans on the Gulf C
 
 - MFC 540 Foundations of Counseling 
 - MFC 541 Personality Theories
-- MFC 544 Indiviual & Family Development 
+- MFC 544 Individual & Family Development 
 - MFC 545 Group Counseling
 - MFC 550 Sociology of the Family
 - MFC 551 Family Systems Theories & Therapies 
