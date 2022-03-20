@@ -34,7 +34,7 @@ advanced:
 
 ## My Mission
 
-To help others see the forest *and* the trees
+To see both the forest and the trees and help others do the same
 
 ## Interests
 
@@ -59,9 +59,9 @@ I work with an outstanding team of professionals to serve veterans on the Gulf C
 - MFC 550 Sociology of the Family
 - MFC 551 Family Systems Theories & Therapies 
 - MFC 552 Family Development
-- MFC 554 Marriage & Family Counseling I (Strategic, Structural, Cognitive-Behavioral, Narrative)
+- MFC 554 Marriage & Family Counseling I (Strategic, Structural, Cognitive-Behavioral, Solution-Focused, Narrative)
 - MFC 555 Marriage & Family Counseling II (Bowen, Experiential, Object Relations, IFS)
-- MFC 556 Couples Counseling
+- MFC 556 Couples Counseling (e.g., Gottman, EFT)  
 - MFC 565 Research Techniques & Data Analysis in Marriage & Family Counseling
 - MFC 571 Ethical & Legal Issues
 - MFC 575 Crisis and Trauma
@@ -74,7 +74,7 @@ I work with an outstanding team of professionals to serve veterans on the Gulf C
 ## Education
 
 ### Virginia Tech
-#### PhD in Human Development • May 2014 • Blacksburg, VA
+#### PhD in Human Development (concentration in MFT) • May 2014 • Blacksburg, VA
 
 ### Reformed Theological Seminary
 #### MA in Marriage & Family Therapy & Counseling • December 2006 • Jackson, MS
