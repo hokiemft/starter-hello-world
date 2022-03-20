@@ -34,7 +34,7 @@ advanced:
 
 ## My Mission
 
-To help others not miss the forest for the trees
+To help others see the forest *and* the trees
 
 ## Interests
 
