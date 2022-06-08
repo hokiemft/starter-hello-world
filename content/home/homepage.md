@@ -43,7 +43,7 @@ Systems Thinking, Pedagogy, Metacognition, Politics of MFT, Self of the Therapis
 ## Experience
 
 ### [University of Mobile](https://umobile.edu/academics/faculty-directory/)
-#### Assistant Professor of Marriage and Family Counseling • August 2016 - Current • Mobile, AL 
+#### Associate Professor of Marriage and Family Counseling • August 2016 - Current • Mobile, AL 
 I teach and train graduate students in the art and science of therapy and self-reflection. 
 
 ### [Veterans Recovery Resources](https://veteransrecoveryresources.org/team/our-clinical-team/)
